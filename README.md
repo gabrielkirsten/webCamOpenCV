@@ -5,6 +5,7 @@ This project is a software that performs real-time filtering image obtained by w
       Ps. Description in PT-BR
 
 Atividade - Visão Computacional (Filtragem em tempo real)
+
 ------------------------------------------------------------------------
 # Descrição
 
