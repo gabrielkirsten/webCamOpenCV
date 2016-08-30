@@ -36,14 +36,14 @@ foi feito o AND entre cada canal do BGR do frame com a mascara fgmask e emseguid
 
 (IMPORTANTE: O código foi gerado utilizando openCV v3.0.0 e não houve a possibilidade de rodar e testar no openCV v3.1.0)
 
-#Etapas de desenvolvimento:
-	- Estudo da abertura da utilização da webcam com openCV.
-	- Implementação da apresentação da imagem.
-	- Estudo de operações com matrizes em Python.
-	- Implementação da parte relacionada com tratamento de cores.
-	- Implementação do detector de bordas Canny.
-	- Implementação do reconhecimento facial.
-	- Implementação da subtração de fundo.
+	**Etapas de desenvolvimento:
+		- Estudo da abertura da utilização da webcam com openCV.
+		- Implementação da apresentação da imagem.
+		- Estudo de operações com matrizes em Python.
+		- Implementação da parte relacionada com tratamento de cores.
+		- Implementação do detector de bordas Canny.
+		- Implementação do reconhecimento facial.
+		- Implementação da subtração de fundo.
 
 ------------------------------------------------------------------------
 #Utilização
