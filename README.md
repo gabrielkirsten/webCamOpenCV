@@ -48,7 +48,6 @@ foi feito o AND entre cada canal do BGR do frame com a mascara fgmask e emseguid
 
 ------------------------------------------------------------------------
 #Utilização
-
 	- Altere o diretorio no terminal linux com o comando 'cd' até a pasta
 	onde se encontra o arquivo atividadeWebCam.py;
 			(importante: o código não irá funcionar se o diretorio for
@@ -59,7 +58,7 @@ foi feito o AND entre cada canal do BGR do frame com a mascara fgmask e emseguid
 	- Utilize os comandos relacionados abaixo para navegação.
 
 ------------------------------------------------------------------------		
-#ESTRUTURA DE DIRETORIOS	
+#Estrutura de diretórios	
     .
     |-- atividadeWebCam
     |	|-- atividadeWebCam.py (codigo em python)
