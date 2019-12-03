@@ -10,11 +10,12 @@ Atividade - Visão Computacional (Filtragem em tempo real)
 # Descrição
 
 Desenvolvido em Python v2.7.12 utilizando como base a biblioteca OpenCV v3.0.0 
+
 Sistema Operacional: Ubuntu 16.04 LTS 
 
 Software desenvolvido para disciplina de Visão Computacional, foram dedicadas em um intervalo de duas semana, cerca de 8 horas de desenvolvimento.
 
-A implementação, em geral, foi realizada sem muitas dificuldades.
+A implementação em geral foi realizada sem muitas dificuldades.
 
 A parte relacionada aos canais de cores, como RGB ou HSV foi obtida atraves da documentação do openCV (http://docs.opencv.org/) e também foi necessário alguns conhecimentos de tratamento de matrizes em python. 
 
